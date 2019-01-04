@@ -7,9 +7,9 @@ shadowsocks.sh
 使用方法：
 使用root用户登录，运行以下命令：
 
-wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/miaocloud/shadowsocks_install/master/shadowsocks.sh
-chmod +x shadowsocks.sh
-./shadowsocks.sh 2>&1 | tee shadowsocks.log
+1. wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/miaocloud/shadowsocks_install/master/shadowsocks.sh
+2. chmod +x shadowsocks.sh
+3. ./shadowsocks.sh 2>&1 | tee shadowsocks.log
 卸载方法：
 使用root用户登录，运行以下命令：
 ./shadowsocks.sh uninstall
