@@ -1,4 +1,4 @@
-# shadowso![Shadowsocks](https://github.com/miaocloud/shadowsocks_install/raw/master/shadowsocks.png)
+[Shadowsocks](https://github.com/miaocloud/shadowsocks_install/raw/master/shadowsocks.png)
 # Auto install Shadowsocks Server
 
 shadowsocks.sh
