@@ -14,13 +14,14 @@ echo
 echo "#############################################################"
 echo "# One click Install ShadowsocksR Server                     #"
 echo "# Intro: https://haobaobattery.cn                      #"
-echo "# Author: Teddysun <admin@haobaobattery.cn>                         #"
+echo "# Author:  <admin@haobaobattery.cn>                         #"
 echo "# Github: https://github.com/shadowsocksr/shadowsocksr      #"
 echo "#############################################################"
 echo
 
 libsodium_file="libsodium-1.0.16"
-libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.16/libsodium-1.0.16.tar.gz"
+#libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.16/libsodium-1.0.16.tar.gz"
+libsodium_url="https://raw.githubusercontent.com/miaocloud/libsodium/master/down2/libsodium-1.0.16.tar.gz"
 shadowsocks_r_file="shadowsocksr-3.2.2"
 shadowsocks_r_url="https://github.com/shadowsocksrr/shadowsocksr/archive/3.2.2.tar.gz"
 
